@@ -4,7 +4,7 @@ This is my first attempt to create a docker image from a project. This is only t
 ## To Get the Repo
 
 ```
-git clone repo_id
+git clone https://github.com/Lunaticsatoshi/Docker-Nodejs-Jwt-Auth.git
 
 cd nodejs_jwt_login
 
